@@ -143,3 +143,5 @@ watchfiles==0.21.0
 websockets==12.0
 xformers==0.0.26.post1
 yarl==1.9.4
+langchainhub==0.1.17
+chromadb==0.5.0
